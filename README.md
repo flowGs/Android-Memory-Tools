@@ -1,5 +1,7 @@
 # Android-Memory-Tools
-Python script to edit process memory while running
+Python script to edit process memory
+
+Used files: `/proc/PID/mem`, `/proc/PID/maps`
 
 # Usage
 ```
